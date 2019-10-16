@@ -1,2 +1,2 @@
-# MG-Seguros
+# MG-Brokers
  Cotización online de seguros

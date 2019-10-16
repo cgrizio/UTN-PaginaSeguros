@@ -1,2 +1,2 @@
-# UTN-PaginaSeguros
- Ejercicio Final para curso Front End UTN Viernes
+# MG-Seguros
+ Cotización online de seguros
